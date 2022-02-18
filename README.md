@@ -2,7 +2,7 @@
 Spring 2022 IOT Assignments NCSU
 
 ## Description
-Implements a HTTP client in python that can connect with a HTTP server to transfer data. 
+Implements a HTTP client in python that can connect with a HTTP server to transfer data between a Raspberry Pi and a PC. 
 
 Code highlights
 - Python requests module was used to implement the HTTP client
